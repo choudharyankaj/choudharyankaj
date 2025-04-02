@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @choudharyankaj
-- 👀 I’m interested in Web Designing, Development and SEO.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on SEO.
+- 👀 I’m interested in Python Development (AI/ML).
+- 🌱 I’m currently learning Python Development.
+- 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me by my profile.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
